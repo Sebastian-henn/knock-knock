@@ -1,0 +1,14 @@
+D:\Programming\Dotnet\KnockKnock\bin\Debug\netcoreapp2.1\KnockKnock.deps.json
+D:\Programming\Dotnet\KnockKnock\bin\Debug\netcoreapp2.1\KnockKnock.runtimeconfig.json
+D:\Programming\Dotnet\KnockKnock\bin\Debug\netcoreapp2.1\KnockKnock.runtimeconfig.dev.json
+D:\Programming\Dotnet\KnockKnock\bin\Debug\netcoreapp2.1\KnockKnock.dll
+D:\Programming\Dotnet\KnockKnock\bin\Debug\netcoreapp2.1\KnockKnock.pdb
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.csprojAssemblyReference.cache
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.csproj.CoreCompileInputs.cache
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.RazorAssemblyInfo.cache
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.RazorAssemblyInfo.cs
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.AssemblyInfoInputs.cache
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.AssemblyInfo.cs
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.RazorTargetAssemblyInfo.cache
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.dll
+D:\Programming\Dotnet\KnockKnock\obj\Debug\netcoreapp2.1\KnockKnock.pdb
